@@ -1,0 +1,7 @@
+python-telegram-bot
+google-genai
+feedparser
+requests
+python-dotenv
+psycopg2-binary
+flask
